@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Victor's home on the web!
-
-A data-driven personal website
-======
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+- I am a master student in the Data System group of the David R. Cheriton School of Computer Science at the University of Waterloo since 2017, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+- My research interests include information retrieval, natural language processing and machine learning. 
+- Before being a Master candidate in computer science at University of Waterloo, I have got my B.S. degree in computer science and technology at Zhejiang University, China. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/)
+- I will join a start-up company [RSVP.ai](http://rsvp.ai) in May, 2019.
