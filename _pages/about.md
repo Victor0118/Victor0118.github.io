@@ -12,6 +12,7 @@ redirect_from:
 - My research interests include natural language processing and machine learning, specifically question answering, reading comprehession and intelligent chatbot. 
 - Before being a Master candidate in computer science at University of Waterloo, I have got my B.S. degree in computer science and technology at Zhejiang University, China. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in 2017 and 2016, respectively.
 - I did a internship in RSVP.ai in 2018, where I spend lots of time for the coreference resolution task, the customer complaint escalation task and the open domain question answering task.
-- I successfully defended my Master thesis on 4 April, 2019! The title is `End-to-end Neural Information Retrieval`.
+- I successfully defended my Master thesis on 5 April, 2019! The title is `End-to-end Neural Information Retrieval`.
 - We are the top one in MSMARCO passage re-ranking task! See the [leaderborad](http://www.msmarco.org/leaders.aspx).
-- I am actively looking for full-time job related to NLP and ML area in 2019!
+- I will join RSVP.ai on May 1st as a machine learning engineer.
+# - I am actively looking for full-time job related to NLP and ML area in 2019!
