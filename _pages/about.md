@@ -15,4 +15,3 @@ redirect_from:
 - I successfully defended my Master thesis on 5 April, 2019! The title is `End-to-end Neural Information Retrieval`.
 - We are the top one in MSMARCO passage re-ranking task! See the [leaderborad](http://www.msmarco.org/leaders.aspx).
 - I will join RSVP.ai on May 1st as a machine learning engineer.
-# - I am actively looking for full-time job related to NLP and ML area in 2019!
