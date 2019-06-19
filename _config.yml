@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Wei (Victor) Yang"
+name                     : &name "Wei (Victor) Yang 杨威"
 description              : &description "Machine Learning Engineer at RSVP.ai, MMath graduate at University of Waterloo"
 url                      : https://Victor0118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-- I am a master student in the Data System group of the David R. Cheriton School of Computer Science at the University of Waterloo since 2017, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
+- I am a Machine Learning Engineer at RSVP.ai.
+- I got my Master of Mathematics (Computer Science) degree at the University of Waterloo since 2017, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group of the David R. Cheriton School of Computer Sciencei.
 - My research interests include natural language processing and machine learning, specifically question answering, reading comprehession and intelligent chatbot. 
 - Before being a Master candidate in computer science at University of Waterloo, I have got my B.S. degree in computer science and technology at Zhejiang University, China. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in the summer of 2016.
 - 2018-05 to 2019-04: I did a internship in RSVP.ai, where I spend lots of time for the coreference resolution task, the customer complaint escalation task and the open domain question answering task.
