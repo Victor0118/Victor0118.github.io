@@ -11,6 +11,7 @@ redirect_from:
 - My research interests include natural language processing, information retrieval and machine learning, specifically question answering, reading comprehession and intelligent chatbot. 
 - I got my Master of Mathematics (Computer Science) degree at the University of Waterloo in April 2019, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group.
 - I got my B.S. degree in computer science and technology at Zhejiang University, China in June 2017. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in the summer of 2016.
+- 2019-08-13: I have four papers accepted to *EMNLP 2019*!
 - 2019-07-28: As the first author, I have one paper accepted to *ACL workshop* (NLP for Conversational AI) 2019. I had a nice journey in Florence, Italy!
 - 2019-07-23: Excited to know that my SIGIR paper got the *Best Paper Honorable Mention* award! Check it [here](https://arxiv.org/abs/1904.09171).
 - 2019-07-21: As the first author, I have one paper accepted to *SIGIR 2019*. I had a nice journey in Paris, France!
