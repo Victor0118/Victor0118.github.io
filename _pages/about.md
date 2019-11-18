@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I am a Machine Learning Engineer at RSVP.ai.
-- My research interests include natural language processing, information retrieval and machine learning, specifically question answering, reading comprehession and intelligent chatbot. 
+- I will join Boreaslis.ai as a research engineer. Previously, I was a machine learning engineer at RSVP.ai.
+- My research interests include information retrieval, question answering, semantic parsing and deep learning. 
 - I got my Master of Mathematics (Computer Science) degree at the University of Waterloo in April 2019, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group.
 - I got my B.S. degree in computer science and technology at Zhejiang University, China in June 2017. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in the summer of 2016.
 - 2019-10-14: I have one demo paper accepted to *WSDM 2020*! Code will be released very soon.

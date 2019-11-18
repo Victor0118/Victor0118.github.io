@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Victor Wei Yang 杨威"
-description              : &description "Machine Learning Engineer at RSVP.ai, MMath graduate at University of Waterloo"
+description              : &description "Research Engineer II at Borealis.ai"
 url                      : https://Victor0118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Victor Wei Yang 杨威"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Engineer at RSVP.ai, MMath graduate at University of Waterloo"
+  bio              : "Research Engineer II at Borealis.ai"
   location         : "Waterloo, ON, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=NNrBJsMAAAAJ&hl=en"
