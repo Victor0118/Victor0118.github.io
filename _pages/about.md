@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Machine Learning Engineer"
+title: "Research Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-- I will join Boreaslis.ai as a research engineer. Previously, I was a machine learning engineer at RSVP.ai.
+- I will join Boreaslis.ai as a research engineer in Dec 2019. Previously, I was a machine learning engineer at RSVP.ai.
 - My research interests include information retrieval, question answering, semantic parsing and deep learning. 
 - I got my Master of Mathematics (Computer Science) degree at the University of Waterloo in April 2019, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group.
 - I got my B.S. degree in computer science and technology at Zhejiang University, China in June 2017. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in the summer of 2016.
@@ -22,4 +22,4 @@ redirect_from:
 - 2019-04-08: We are the top one in MSMARCO passage re-ranking task! See the [leaderborad](http://www.msmarco.org/leaders.aspx).
 - 2019-04-05: I successfully defended my Master thesis at University of Waterloo! The title is `End-to-end Neural Information Retrieval`. See the [paper](https://uwspace.uwaterloo.ca/handle/10012/14597) and the [slides](http://Victor0118.github.io/files/Thesis_slide.pdf).
 - 2019-01-27: I have one paper accepted to *AAAI 2019*.
-- 2018-05 to 2019-04: I did a internship in RSVP.ai, where I spent much time for the coreference resolution task, the customer complaint escalation task and the open domain question answering task.
+- 2018-05 to 2019-05: I did a internship in RSVP.ai, where I spent much time on the coreference resolution task, the customer complaint escalation task and the open domain question answering task.
