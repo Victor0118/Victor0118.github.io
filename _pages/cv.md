@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](http://Victor0118.github.io/files/resume.pdf)
+Here is my [Resume](http://Victor0118.github.io/files/resume.pdf)
