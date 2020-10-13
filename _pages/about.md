@@ -11,6 +11,7 @@ redirect_from:
 - My research interests include 1). information retrieval, 2). NLP applications: question answering, semantic parsing, 3) data driven machine learning: zero/few-shot learning, transfer learning, meta-learning. 
 - I got my Master of Mathematics (Computer Science) degree at the University of Waterloo in April 2019, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group.
 - I got my B.S. degree in computer science and technology at Zhejiang University, China in June 2017. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore) and Professor [Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in the summer of 2016.
+- 2020-10-01: The source code for BERTserini is officially open-sourced [here](https://github.com/rsvp-ai/bertserini)!
 - 2020-06-30: As the first author, I have one paper accepted to *ICTIR 2020*. 
 - 2020-04-26: Attended two online conferences: WWW 2020 and ICLR 2020. 
 - 2020-01-10: As the first author, I have one paper accepted to *WWW 2020*. 
