@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "Research Engineer"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-** About Me
 - I am a research engineer in [Boreaslis.ai](https://www.borealisai.com/en/) starting from Dec 2019. Previously, I was a machine learning engineer at [RSVP.ai](https://rsvp.ai/en/#/index).
 - My research interests include 1). information retrieval, 2). NLP applications: question answering, semantic parsing, 3) data driven machine learning: zero/few-shot learning, transfer learning, meta-learning. 
 - I got my Master of Mathematics (Computer Science) degree at the University of Waterloo in April 2019, under the supervision of [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) at the Data System group.
 - I got my B.S. degree in computer science and technology at Zhejiang University, China in June 2017. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore).
 
-** Latest News
+## Latest News
 - 2021-05-07: Our paper on transformer optimization is accepted as the ACL main conference long paper! Check out the preview version on [Arxiv](https://arxiv.org/abs/2012.15355) (We'll submit 2nd version soon, which includes more experiments and detailed analysis.)
 - 2020-11-19: We are No.1 in the Spider Leaderboard (Yale Semantic Parsing and Text-to-SQL Challenge). Check out our score [here](https://yale-lily.github.io/spider)!
 - 2020-10-01: The source code for BERTserini is officially open-sourced [here](https://github.com/rsvp-ai/bertserini)!

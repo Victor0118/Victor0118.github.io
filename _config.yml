@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Victor's Homepage"
 title_separator          : "-"
 name                     : &name "Victor Wei Yang 杨威"
 description              : &description "Research Engineer II at Borealis.ai"
