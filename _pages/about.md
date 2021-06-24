@@ -13,8 +13,9 @@ redirect_from:
 - I got my B.S. degree in computer science and technology at Zhejiang University. I also worked as a research assistant with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) in the winter of 2017 (actually there is no winter in Singapore).
 
 ## Latest News
+- 2021-05-28: One paper is accepted by ACL workshop. 
 - 2021-05-24: One demo paper is accepted by ACL. 
-- 2021-05-07: Our paper on transformer optimization is accepted as the ACL main conference long paper! Check out the preview version on [Arxiv](https://arxiv.org/abs/2012.15355)
+- 2021-05-07: Our paper on transformer optimization is accepted as the ACL main conference long paper! Check it out on [Arxiv](https://arxiv.org/abs/2012.15355)
 - 2020-11-19: We are No.1 in the Spider Leaderboard (Yale Semantic Parsing and Text-to-SQL Challenge). Check out our score [here](https://yale-lily.github.io/spider)!
 - 2020-10-01: The source code for BERTserini is officially open-sourced [here](https://github.com/rsvp-ai/bertserini)!
 - 2020-06-30: As the first author, I have one paper accepted to *ICTIR 2020*. 
